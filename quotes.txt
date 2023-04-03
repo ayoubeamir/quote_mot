@@ -1,25 +1,25 @@
-"Believe you can and you're halfway there." -Theodore Roosevelt
-"You miss 100% of the shots you don't take." -Wayne Gretzky
-"The only way to do great work is to love what you do." -Steve Jobs
-"Success is not final, failure is not fatal: it is the courage to continue that counts." -Winston Churchill
-"If you want to live a happy life, tie it to a goal, not to people or things." -Albert Einstein
-"Don't watch the clock; do what it does. Keep going." -Sam Levenson
-"You must be the change you wish to see in the world." -Mahatma Gandhi
-"I have not failed. I've just found 10,000 ways that won't work." -Thomas Edison
-"The best way to predict the future is to create it." -Peter Drucker
-"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela
-"Success is stumbling from failure to failure with no loss of enthusiasm." -Winston Churchill
-"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." -Christian D. Larson
-"The only place where success comes before work is in the dictionary." -Vidal Sassoon
-"Don't let yesterday take up too much of today." -Will Rogers
-"If you can dream it, you can achieve it." -Zig Ziglar
-"Success is not how high you have climbed, but how you make a positive difference to the world." -Roy T. Bennett
-"Opportunities are usually disguised as hard work, so most people don't recognize them." -Ann Landers
-"The only limit to our realization of tomorrow will be our doubts of today." -Franklin D. Roosevelt
-"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela
-"I never dreamed about success. I worked for it." -Estée Lauder
-"Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got this." -Chantal Sutherland
-"If you don't build your dream, someone else will hire you to help them build theirs." -Tony Gaskins
-"The future belongs to those who believe in the beauty of their dreams." -Eleanor Roosevelt
-"You don't have to be great to start, but you have to start to be great." -Zig Ziglar
-"What you get by achieving your goals is not as important as what you become by achieving your goals." -Zig Ziglar
+1"Believe you can and you're halfway there." -Theodore Roosevelt
+2"You miss 100% of the shots you don't take." -Wayne Gretzky
+3"The only way to do great work is to love what you do." -Steve Jobs
+4"Success is not final, failure is not fatal: it is the courage to continue that counts." -Winston Churchill
+5"If you want to live a happy life, tie it to a goal, not to people or things." -Albert Einstein
+6"Don't watch the clock; do what it does. Keep going." -Sam Levenson
+7"You must be the change you wish to see in the world." -Mahatma Gandhi
+8"I have not failed. I've just found 10,000 ways that won't work." -Thomas Edison
+9"The best way to predict the future is to create it." -Peter Drucker
+10"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela
+11"Success is stumbling from failure to failure with no loss of enthusiasm." -Winston Churchill
+12"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." -Christian D. Larson
+13"The only place where success comes before work is in the dictionary." -Vidal Sassoon
+14"Don't let yesterday take up too much of today." -Will Rogers
+15"If you can dream it, you can achieve it." -Zig Ziglar
+16"Success is not how high you have climbed, but how you make a positive difference to the world." -Roy T. Bennett
+17"Opportunities are usually disguised as hard work, so most people don't recognize them." -Ann Landers
+18"The only limit to our realization of tomorrow will be our doubts of today." -Franklin D. Roosevelt
+19"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela
+20"I never dreamed about success. I worked for it." -Estée Lauder
+21"Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got this." -Chantal Sutherland
+22"If you don't build your dream, someone else will hire you to help them build theirs." -Tony Gaskins
+23"The future belongs to those who believe in the beauty of their dreams." -Eleanor Roosevelt
+24"You don't have to be great to start, but you have to start to be great." -Zig Ziglar
+25"What you get by achieving your goals is not as important as what you become by achieving your goals." -Zig Ziglar
